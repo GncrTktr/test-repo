@@ -1,2 +1,3 @@
 Merhaba! Bu benim ilk Git dosyam.
 Bu dosyayı GitHub eğitimi sırasında oluşturdum.
+Sonradan Eklenen Satır
